@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Ruchika</h1>
 <h3 align="center">Soy Ingeniera de Software buscando especializarme y con muchas ganas de aprender</h3>
 
-- Todos mis proyectos disponibles en [INSERTARLINK.COM](INSERTARLINK.COM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
