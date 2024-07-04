@@ -4,6 +4,8 @@
 - Todos mis proyectos disponibles en [INSERTARLINK.COM](INSERTARLINK.COM)
 
 <h3 align="left">Connect with me:</h3>
+[www.linkedin.com/in/ruchika-ahuja-purswani-449963273](www.linkedin.com/in/ruchika-ahuja-purswani-449963273)
+
 <p align="left">
 </p>
 
